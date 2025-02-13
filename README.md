@@ -5,7 +5,7 @@ Welcome to the Revenue Insights in Hospitality Domain dashboard! This Power BI p
 
 **🔍 Key Features**
 
-**🏠 Main Dashboard (Home Page)**
+**🏠 Main Dashboard (Home Page)** {https://github.com/Prachit-M-Raut/Revenue-Insights-In-Hospitality-Domain/blob/main/Screenshot%201.png}
 1. Revenue Analysis: Tracks total revenue trends across different properties.
 2. RevPAR (Revenue per Available Room): Measures revenue efficiency per room.
 3. Realization %: Evaluates the proportion of potential revenue realized.
