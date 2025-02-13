@@ -15,7 +15,7 @@ Welcome to the Revenue Insights in Hospitality Domain dashboard! This Power BI p
 7. Trends by Key Metrics: Line graphs help visualize changes in RevPAR, ADR, and Occupancy % over time.
 
 
-**📌 Tooltip View (Detailed Breakdown)**
+**📌 Tooltip View (Detailed Breakdown)** {https://github.com/Prachit-M-Raut/Revenue-Insights-In-Hospitality-Domain/blob/main/Screenshot%202.png}
 Revenue by Week & Category: Visualizes revenue trends for Business vs. Luxury categories.
 
 Booking Platform Performance: Analyzes realization % across different booking platforms.
